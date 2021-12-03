@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="convert_currency">Convert Currency</string>
+    <string name="gold_price">Gold Price</string>
+    <string name="stock_price">Stock Price</string>
+    <string name="world_time">World Time</string>
+    <string name="weather_of_province">Weather of City</string>
+</resources>
